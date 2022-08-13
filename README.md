@@ -22,18 +22,17 @@
 <!-- ![wweb-js_trademark-removebg-preview](https://user-images.githubusercontent.com/111160287/184460084-4fa78a30-da3c-4a4b-a4e4-4a3bdbcf60de.png) 
 ![💻_Whatsapp_Bot_💻](https://user-images.githubusercontent.com/111160287/184459930-04f5ec5a-3c1d-4902-b1c0-6dd259f74cce.png) -->
 
-# WA_Botto
-Made with hearth ❤️ , using whatsapp-web.js source 📋
+# :bulb: WA_Botto
+Made with hearth :heart:  , using whatsapp-web.js source 📋
 
 ## Instalation
 ```bash
 $ git clone https://github.com/SkyUnik/WA_Botto.git
 $ cd WA_Botto
 $ npm install # installing all package needed
-$ npm start # To Start the bot
 ```
 
 ## Usage
 ```bash
-
+$ npm start # to fully starting the bot
 ```
