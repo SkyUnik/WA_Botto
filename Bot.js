@@ -10,6 +10,7 @@ const { Client, LocalAuth, MessageMedia, List, Buttons} = require('whatsapp-web.
 const pup_me = ({
     executablePath: '/usr/bin/google-chrome',
     args: ['--no-sandbox']
+    // , headless: false
 })
 
 const client = new Client({
