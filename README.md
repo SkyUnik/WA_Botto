@@ -1,7 +1,9 @@
 <h1 align="center">
   <br>
+  <a href="https://github.com/pedroslopez/whatsapp-web.js">
   <img src="https://user-images.githubusercontent.com/111160287/184460084-4fa78a30-da3c-4a4b-a4e4-4a3bdbcf60de.png"  width="200"></a>
   <br>
+  <a href="https://github.com/SkyUnik/WA_Botto">
   <img src="https://user-images.githubusercontent.com/111160287/184459930-04f5ec5a-3c1d-4902-b1c0-6dd259f74cce.png" width="300"><a>
   <br>
 </h1>
@@ -13,7 +15,7 @@
   <a href="https://github.com/pedroslopez/whatsapp-web.js">
   <img src="https://img.shields.io/github/v/release/pedroslopez/whatsapp-web.js?color=Whatsapp&display_name=tag&label=wweb-js&logo=Whatsapp">
   </a>
-  <a href="https://github.com/pedroslopez/whatsapp-web.js">
+  <a href="https://www.whatsapp.com/">
       <img src="https://img.shields.io/badge/WhatsApp_Web-2.2224.8-brightgreen.svg?logo=Whatsapp">
   </a>
 </p>
