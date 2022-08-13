@@ -27,11 +27,22 @@
 # :bulb: WA_Botto
 Made with hearth :heart: in this cold times.
 
-## Instalation
+## Requirements
+- Node LTS ( installing node by going [here](https://nodejs.org/en/download/) )
 ```bash
-$ git clone https://github.com/SkyUnik/WA_Botto.git
-$ cd WA_Botto
-$ npm install # installing all package needed
+
+# Installing Node On Ubuntu
+curl -fsSL https://deb.nodesource.com/setup_lts.x | sudo -E bash -
+sudo apt-get install -y nodejs 
+```
+*NOTE:* Tested on Node v16.16.0 (LTS)
+
+
+## Installation
+```bash
+git clone https://github.com/SkyUnik/WA_Botto.git
+cd WA_Botto # go to the directory 
+npm install # installing all package needed
 ```
 
 ## Usage
