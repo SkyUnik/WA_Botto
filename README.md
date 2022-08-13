@@ -23,7 +23,7 @@
 ![💻_Whatsapp_Bot_💻](https://user-images.githubusercontent.com/111160287/184459930-04f5ec5a-3c1d-4902-b1c0-6dd259f74cce.png) -->
 
 # WA_Botto
-Made with hearth , using whatsapp-web.js source
+Made with hearth ❤️ , using whatsapp-web.js source 📋
 
 ## Instalation
 ```bash
