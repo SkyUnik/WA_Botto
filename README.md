@@ -55,6 +55,7 @@ executablePath: '/Applications/Google Chrome.app/Contents/MacOS/Google Chrome',
 
 ## Installation
 ```bash
+# Open up terminal and type
 git clone https://github.com/SkyUnik/WA_Botto.git
 cd WA_Botto # go to the directory 
 npm install # installing all package needed
@@ -62,5 +63,6 @@ npm install # installing all package needed
 
 ## Usage
 ```bash
+# Open up terminal and type
 $ npm start # to fully starting the bot
 ```
