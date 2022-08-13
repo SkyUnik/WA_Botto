@@ -21,6 +21,9 @@
   <a href="https://discord.gg/wyKybbF">
     <img src="https://img.shields.io/discord/698610475432411196?color=light&label=Discord&logo=Discord&logoColor=purple%20dark">
   </a>
+  <a href="http://www.apache.org/licenses/LICENSE-2.0">
+    <img src="https://img.shields.io/github/license/SkyUnik/WA_Botto?label=License&logo=apache">
+  </a>
 </p>
 
 
@@ -31,7 +34,7 @@
 Made with hearth :heart: in this cold times.
 
 ## Requirements
-- Node LTS ( installing node by going [here](https://nodejs.org/en/download/) )
+- [Node LTS](https://nodejs.org/en/download/) (Node v16.16.0)
 ```bash
 # Installing Node On Ubuntu
 curl -fsSL https://deb.nodesource.com/setup_lts.x | sudo -E bash -
@@ -39,7 +42,7 @@ sudo apt-get install -y nodejs
 
 # NOTE: Tested on Node v16.16.0 (LTS)
 ```
-- Google Chrome ( Puppeter compatible browser ) <br />
+- [Chrome](https://www.google.com/chrome/) ( Puppeter compatible browser ) <br />
 ```bash
 # Specify Google-Chrome Path in Bot.js file
 
