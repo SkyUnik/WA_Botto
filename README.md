@@ -13,10 +13,13 @@
 <p align="center">
   </a>
   <a href="https://github.com/pedroslopez/whatsapp-web.js">
-  <img src="https://img.shields.io/github/v/release/pedroslopez/whatsapp-web.js?color=Whatsapp&display_name=tag&label=wweb-js&logo=Whatsapp">
+    <img src="https://img.shields.io/github/v/release/pedroslopez/whatsapp-web.js?color=Whatsapp&display_name=tag&label=wweb-js&logo=Whatsapp">
   </a>
   <a href="https://www.whatsapp.com/">
-      <img src="https://img.shields.io/badge/WhatsApp_Web-2.2224.8-brightgreen.svg?logo=Whatsapp">
+    <img src="https://img.shields.io/badge/WhatsApp_Web-2.2224.8-brightgreen.svg?logo=Whatsapp">
+  </a>
+  <a href="https://discord.gg/wyKybbF">
+    <img src="https://img.shields.io/discord/698610475432411196?color=light&label=Discord&logo=Discord&logoColor=purple%20dark">
   </a>
 </p>
 
