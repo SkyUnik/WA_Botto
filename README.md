@@ -30,13 +30,28 @@ Made with hearth :heart: in this cold times.
 ## Requirements
 - Node LTS ( installing node by going [here](https://nodejs.org/en/download/) )
 ```bash
-
 # Installing Node On Ubuntu
 curl -fsSL https://deb.nodesource.com/setup_lts.x | sudo -E bash -
 sudo apt-get install -y nodejs 
-```
-*NOTE:* Tested on Node v16.16.0 (LTS)
 
+# NOTE: Tested on Node v16.16.0 (LTS)
+```
+- Google Chrome ( Puppeter compatible browser ) <br />
+```bash
+# Specify Google-Chrome Path in Bot.js file
+
+# For Linux 
+# Get Full path of the chrome by "which google-chrome" , and put it on the line
+executablePath: '/usr/bin/google-chrome',
+
+# For Windows
+# Open up chrome and type it the bar "chrome://version" , and put the path on the line
+executablePath: 'C:\Program Files\Google\Chrome\Application\chrome.exe',
+
+# For MacOS
+# Open up chrome and type it the bar "chrome://version" , and put the Executable Path on the line
+executablePath: '/Applications/Google Chrome.app/Contents/MacOS/Google Chrome',
+```
 
 ## Installation
 ```bash
