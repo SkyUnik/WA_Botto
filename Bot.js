@@ -7,12 +7,14 @@ const puppeteer = require('puppeteer')
 const { Client, LocalAuth, MessageMedia, List, Buttons} = require('whatsapp-web.js');
 
 
+const pup_me = ({
+    executablePath: '/usr/bin/google-chrome',
+    args: ['--no-sandbox']
+})
+
 const client = new Client({
     authStrategy: new LocalAuth(),
-    puppeteer: {
-        executablePath: '/usr/bin/google-chrome',
-        args: ['--no-sandbox']
-    }
+    puppeteer: pup_me
 });
  
 function sleep(ms) {
@@ -150,7 +152,7 @@ END:VCARD`);
         }
     } else if (isitek === '!meme') {
         chat.sendStateTyping();
-        const browser = await puppeteer.launch({ executablePath: '/usr/bin/google-chrome',args: ['--no-sandbox'],})
+        const browser = await puppeteer.launch(pup_me)
         try {
             const url = 'https://1cak.com/shuffle';
             console.log(`LOG : "Crawling ${url}"`)
